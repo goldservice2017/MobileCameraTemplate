@@ -23,7 +23,6 @@ Feel free to use it in your next Computer Vision or AI project.
 - Flip Camera (environment / user)
 - Supports both portrait and landscape mode
 
-**Check the [demo](https://demo.kasperkamperman.com/mobilecamtemplate/)**
 
 ## Used Libraries:
 
@@ -32,25 +31,12 @@ Feel free to use it in your next Computer Vision or AI project.
 - WebRTC cross-browser: [Adapter.js](https://github.com/webrtc/adapter)
 - UI click sound: [Howler.js](https://howlerjs.com)
 
-## Used Assets:
-
-- ["Basic Click Wooden"](https://freesound.org/people/GameAudio/sounds/220200/) - by [GameAudio](https://www.gameaudio101.com)
-- [Material Design Icons](https://material.io/icons/) (camera front, camera rear, photo camera, fullscreen, fullscreen exit)
-
 ## Tested with:
 
 - Chrome Android 8.0 (Nokia 5)
 - Chrome 65 - MacOs 10.12.6
 - Safari 11.0.3 - MacOs 10.12.6
 - Safari mobile - iOS 11
-
-## Created by 
-
-[Kasper Kamperman](https://www.kasperkamperman.com/blog/camera-template/)
-
-Credits and a link to my website are always appreciated. 
-I'm always curious how people end up using my stuff, so
-feel free to [mail](https://www.kasperkamperman.com/contact/) or [send a tweet @kasperkamperman](https://twitter.com/kasperkamperman). 
 
 ## Good WebRTC resources
 
